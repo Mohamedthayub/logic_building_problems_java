@@ -8,9 +8,6 @@ public class rhombus_triangle{
             for(int k = 1; k<=col; k++){
                 System.out.print("*");
             }
-            for(int t = 0; t<i; t++){
-                System.out.print(" ");
-            }
             System.out.print("\n");
         }
     }
